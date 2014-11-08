@@ -2,14 +2,14 @@ html, body {
   background-color: white;
   margin: 0;
   padding: 0px;
-  color: #DFDFDF;
+  color: black;
   font-family: sans-serif;
   font-size: 16px;
   line-height: 1.4em;
 }
 
 a {
-  color: #DFED5C;
+  color: #202020;
   text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ a:hover {
   right: 50px;
   left: 50px;
   bottom: 50px;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0, 0);
   overflow-y: scroll;
   overflow-x: hidden;
 }
@@ -95,7 +95,7 @@ a:hover {
 .profile-name {
   margin: 40px auto 20px auto;
   text-align: center;
-  color: white;
+  color: black;
   font-size: 3em;
   font-family: 'Josefin Sans', sans-serif;
 }
